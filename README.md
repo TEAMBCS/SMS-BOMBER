@@ -1,4 +1,4 @@
-# SmsBombing
+# SMS-BOMBER
 
 # SMS-BOMB
 * Free and Unlimited best SMS BOMBER Tools
@@ -14,9 +14,9 @@ BCS-TEAM
 * pkg install python -y
 * pip3 install requests
 * rm -rf SmsBombing
-* git clone https://github.com/TEAMBCS/SmsBombing
-* cd SmsBombing
-* python SMS.py
+* git clonehttps://github.com/TEAMBCS/SMS-BOMBER
+* cd SMS-BOMBER
+* python BCS-BOMB.py
 
 # ©️BCS TEAM
 * This Tool only Friend prank's Our team is not responsible if it is used by someone for unethical activities.

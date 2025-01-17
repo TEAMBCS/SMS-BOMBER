@@ -1,11 +1,11 @@
 • This Tool only Friend prank's Our team is not responsible if it is used by someone for unethical activities. This tool send sms frist And powerful
 # SmsBombing
-• SMS-BOMB
-• Free and Unlimited best SMS BOMBER Tools
-• 🖤Assalamu Alaikum🖤
-BCS-TEAM
+•SMS-BOMB
+•Free and Unlimited best SMS BOMBER Tools
+•🖤Assalamu Alaikum🖤
+•BCS-TEAM
 
-INSTALLATION ⬇️
+# INSTALLATION ⬇️
 pkg update -y
 pkg upgrade -y
 pkg install git -y

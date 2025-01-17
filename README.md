@@ -14,7 +14,7 @@ BCS-TEAM
 * pkg install python -y
 * pip3 install requests
 * rm -rf SMS-BOMBER
-* git clonehttps://github.com/TEAMBCS/SMS-BOMBER
+* git clone https://github.com/TEAMBCS/SMS-BOMBER
 * cd SMS-BOMBER
 * python BCS-BOMB.py
 
